@@ -19,7 +19,7 @@ Tipo/Género:
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
-Nombre: 
+Nombre: Luca
 
 
 ### Historia
